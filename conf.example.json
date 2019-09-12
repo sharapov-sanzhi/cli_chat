@@ -1,0 +1,9 @@
+{
+    "DBUserName": "user",
+    "DBPassword": "123456",
+    "DBHost": "127.0.0.1",
+    "DBPort": "3306",
+    "DBName": "dbname",
+    "RMQHost": "127.0.0.1",
+    "RMQPort": "5672"
+}
